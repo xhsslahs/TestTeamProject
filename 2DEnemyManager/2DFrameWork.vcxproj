@@ -194,13 +194,6 @@
   <ItemGroup>
     <Image Include="2DFrameWork.ico" />
     <Image Include="image\background.bmp" />
-    <Image Include="image\ball.bmp" />
-    <Image Include="image\button.bmp" />
-    <Image Include="image\hpBarBottom.BMP" />
-    <Image Include="image\hpBarTop.BMP" />
-    <Image Include="image\missile.bmp" />
-    <Image Include="image\missile1.bmp" />
-    <Image Include="image\ufo.bmp" />
     <Image Include="small.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

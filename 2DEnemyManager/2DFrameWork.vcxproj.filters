@@ -192,26 +192,5 @@
     <Image Include="image\background.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
-    <Image Include="image\button.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="image\hpBarBottom.BMP">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="image\hpBarTop.BMP">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="image\missile.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="image\missile1.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="image\ufo.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="image\ball.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
   </ItemGroup>
 </Project>

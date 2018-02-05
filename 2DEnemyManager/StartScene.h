@@ -4,7 +4,7 @@
 class StartScene : public GameNode
 {
 private:
-	RECT btnRc;
+
 public:
 	void Init();
 	void Release();

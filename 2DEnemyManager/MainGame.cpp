@@ -4,8 +4,6 @@
 void MainGame::Init()
 {
 	GameNode::Init();
-	IMAGEMANAGER->AddImage("bg", L"image/background.bmp", WINWIDTH, WINHEIGHT);
-
 
 	SCENEMANAGER->AddScene("스타트", new StartScene);
 	SCENEMANAGER->AddScene("게임", new GameScene);
