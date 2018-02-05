@@ -1,3 +1,18 @@
 프로젝트 시작 
 20180205
 슈팅게임 팀 포폴
+
+git사용법 
+
+파일을 올릴 때 
+
+선 패치
+중 커밋
+후 푸시
+
+올려 주신 후
+올렸다는걸 
+팀원에게 알려주세요
+
+주소 :
+https://github.com/xhsslahs/TestTeamProject.git
