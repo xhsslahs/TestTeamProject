@@ -193,7 +193,6 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="2DFrameWork.ico" />
-    <Image Include="image\background.bmp" />
     <Image Include="small.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

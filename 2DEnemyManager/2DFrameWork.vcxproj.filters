@@ -189,8 +189,5 @@
     <Image Include="2DFrameWork.ico">
       <Filter>리소스 파일</Filter>
     </Image>
-    <Image Include="image\background.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
   </ItemGroup>
 </Project>
